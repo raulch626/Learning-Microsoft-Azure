@@ -6,3 +6,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 # Install Terraform (thru Chocolatey)
 choco install terraform
+
+# Install Git
+choco install git
